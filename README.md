@@ -1,6 +1,8 @@
 # Malaria_Detector
 
-In this project, we built a robust classifier that able to identify the malaria disease from medical images. I used image dataset to malaria disease, this images belong to two classes: parasitized and uninfected classes.  parasitized-> images contains malaria disease, while uninfrcted -> images with no malaria ( healthy images)
+In this project, we built a robust classifier that able to identify the malaria disease from medical images. I used image dataset to malaria disease, this images belong to two classes: parasitized and uninfected classes.  parasitized-> images contains malaria disease, while uninfrcted -> images with no malaria ( healthy images).
+train dats included ( 12480) images for two classes, while the test data included ( 1300) images for each class.
+
 
 Many steps applied in this project: 
 1. imported required libraries.
