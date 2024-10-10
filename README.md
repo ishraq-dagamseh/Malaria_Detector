@@ -1,6 +1,6 @@
 # Malaria_Detector
 
-In this project, we built a robust classifier that able to identify the malaria disease from medical images. I used image dataset to malaria disease, this images belong to two classes: parasitized and uninfected classes.  parasitized-> images contains malaria disease, while uninfrcted -> images with no malaria ( healthy images).
+In this project, I built a robust classifier that able to identify the malaria disease from medical images. I used image dataset to malaria disease, this images belong to two classes: parasitized and uninfected classes.  parasitized-> images contains malaria disease, while uninfrcted -> images with no malaria ( healthy images).
 train dats included ( 12480) images for two classes, while the test data included ( 1300) images for each class.
 
 
@@ -43,5 +43,12 @@ In this step we noticed that we had balanced data, as we see in the next images:
 6.  glob
 7.  tensorflow
 8.  sklearn
+
+# Results:
+
+Best results were accuracy 95%, with training in 30 epochs, the next image show how the model performance was during the training and testing stages. i think its a good trial but we can make more improvemeny.
+
+![image](https://github.com/user-attachments/assets/f77d9550-8f0b-400a-8364-32b7a6ea8413)
+
 
 
