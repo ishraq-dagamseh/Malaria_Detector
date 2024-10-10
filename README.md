@@ -19,8 +19,10 @@ Many steps applied in this project:
 
 As we noticed, the difference between two images the dark color in the pink part of image, that represent the disease in the medical images.
 5. explored the data
-   in this step we noticed that we had balanced data, as we see in the next images:
-   ![image](https://github.com/user-attachments/assets/10d5f0fc-8a70-488d-aba3-dddb0546a5ff)
+In this step we noticed that we had balanced data, as we see in the next images:
+   
+  ![image](https://github.com/user-attachments/assets/10d5f0fc-8a70-488d-aba3-dddb0546a5ff)
+  
 6.  pre-process data using data augmentation
 7. built Custome CNN model
 8. compiled and optimized the model
