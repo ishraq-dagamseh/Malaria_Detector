@@ -15,12 +15,28 @@ Many steps applied in this project:
 ![image](https://github.com/user-attachments/assets/18fb3fbb-db62-4657-a579-8603453db7ef)
 
 As we noticed, the difference between two images the dark color in the pink part of image, that represent the disease in the medical images.
-6. explored the data
+5. explored the data
    in this step we noticed that we had balanced data, as we see in the next images:
    ![image](https://github.com/user-attachments/assets/10d5f0fc-8a70-488d-aba3-dddb0546a5ff)
-7.  pre-process data using data augmentation
-8. built Custome CNN model
-9. compiled and optimized the model
-10. fit the model with data
-11. evaluate the performance of the model
-12. plot the performance.
+6.  pre-process data using data augmentation
+7. built Custome CNN model
+8. compiled and optimized the model
+9. fit the model with data
+10. evaluate the performance of the model
+11. plot the performance.
+
+
+# I used kaggle notebook because it offer accelerators, and I used GPU T4X2, to accelarate training process.
+# python version 3, tensorflow library to build model
+
+# libraries used in this project were:
+1. numpy
+2. pandas
+3. seaborn.
+4. matplotlib.
+5. os
+6.  glob
+7.  tensorflow
+8.  sklearn
+
+
