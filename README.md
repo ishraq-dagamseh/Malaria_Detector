@@ -9,9 +9,12 @@ Many steps applied in this project:
 2. uploaded data.
 3. read data
 4. visualized some samples of images.
-  and this some of them: A. paratisized images:
+# And this some of them: A. paratisized images:
+
 ![image](https://github.com/user-attachments/assets/1fb655f4-c93e-4f95-bbde-5d3ee0dcaab2)
- And this is from uninfected class:
+
+# And this is from uninfected class:
+ 
 ![image](https://github.com/user-attachments/assets/18fb3fbb-db62-4657-a579-8603453db7ef)
 
 As we noticed, the difference between two images the dark color in the pink part of image, that represent the disease in the medical images.
