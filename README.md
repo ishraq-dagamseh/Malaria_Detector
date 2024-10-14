@@ -18,6 +18,7 @@ Many steps applied in this project:
 ![image](https://github.com/user-attachments/assets/18fb3fbb-db62-4657-a579-8603453db7ef)
 
 As we noticed, the difference between two images the dark color in the pink part of image, that represent the disease in the medical images.
+
 5. explored the data
 In this step we noticed that we had balanced data, as we see in the next images:
    
@@ -27,7 +28,7 @@ In this step we noticed that we had balanced data, as we see in the next images:
 7. built Custome CNN model
 8. compiled and optimized the model
 9. fit the model with data
-10. evaluate the performance of the model
+10. evaluated the performance of the model
 11. plot the performance.
 
 
@@ -46,7 +47,7 @@ In this step we noticed that we had balanced data, as we see in the next images:
 
 # Results:
 
-Best results were accuracy 95%, with training in 30 epochs, the next image show how the model performance was during the training and testing stages. i think its a good trial but we can make more improvemeny.
+Best results were accuracy 95%, with training in 30 epochs, the next image show how the model performance was during the training and testing stages. i think its a good trial but we can make more improvements.
 
 ![image](https://github.com/user-attachments/assets/f77d9550-8f0b-400a-8364-32b7a6ea8413)
 
