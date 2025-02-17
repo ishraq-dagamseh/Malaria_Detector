@@ -57,7 +57,7 @@ Best results were accuracy 95%, with training in 30 epochs, the next image show 
 ![image](https://github.com/user-attachments/assets/870ddd76-c56c-494d-831a-30a0f43d2a50)
 
 
-you can try it from this Link: IshraqTariq92/Malaria_Detector
+you can try it from this Link: [IshraqTariq92/Malaria_Detector](https://huggingface.co/spaces/IshraqTariq92/Malaria_Detector)
 
 
 
